@@ -1,0 +1,9 @@
+.inlineStyle{
+    margin: 0 auto;
+    border: 2px solid #FF9800;
+    backgroundColor: #ffd699;
+}
+
+.inlineStyle:hover{
+    backgroundColor: #fff;
+}
